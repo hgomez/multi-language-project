@@ -5,7 +5,8 @@ package foo;
  */
 public class Foo {
 
-public int a;
+    public int unusedInt;
+    public String unusedString;
 
     public static int div(int a, int b) {
         
